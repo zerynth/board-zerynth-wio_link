@@ -22,6 +22,7 @@
     "type":"board",
     "virtualizable":"WioLink",
     "has_alter_ego":false,
+    "flash_erasable": true,
     "uplink_reset": "reset",
     "connection":{
         "baudrate":115200,
